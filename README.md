@@ -1,6 +1,6 @@
 CarESP is a emotion computation system. It is integrated by 4 components:
 
-1) Cognitive emotion component, based on the O
+1) Cognitive emotion component, based on the Orthony, Clore and Collins and Em model.
 2) Primary emotion, called stress factor. Inspired on the behaoir of stress on humans. This component is based on safety of the user, and has 4 components: vehicle's health, vehicle's capabiity for autonomous driving, operational states and environmental conditions. 
 3) Vehicle's personality, based on the driving style of the user. 
 4) Emotion mapping framework, based on the emotional experience component of affective computing. 
