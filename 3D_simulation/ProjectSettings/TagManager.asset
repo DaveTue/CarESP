@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Kyle
+  - Counter
+  - Smiley
+  - tDObject0
+  - tDObject1
+  - tDObject2
+  - tDObject
+  - bonnet
+  - BODYBODY
+  - door_lf_ok
+  - door_lr_ok
+  - door_rf_ok
+  - door_rr_ok
+  - overtakeright
+  - overtakeleft
+  - wheel_001
+  - wheel_002
+  - wheel_003
+  - wheel_004
+  - boot_ok_00
+  - Group_002
+  - Group_004
+  - needle
+  - leading_car
+  - olane_car
+  - ego_car
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

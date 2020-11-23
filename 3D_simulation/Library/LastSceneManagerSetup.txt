@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scene/CarE_Model_Simulator_T1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
